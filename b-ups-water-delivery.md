@@ -1,5 +1,5 @@
 # The UPS Water Delivery
-- Difficulty: Easy
+- Difficulty: Beginner
 
 ## Part 1
 - The UPS driver arrived to your home. There is one problem, he is confused and forgot how many bottles are in the truck.
