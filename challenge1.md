@@ -29,4 +29,4 @@ This time the water bottles won't fit into a small truck and will require a larg
 
 Sample Input | Sample Output
 ------------ | -------------
-`2358 4385 368 2946 4985`    | `15 042`
+`2358 4385 368 2946 4985`    | `15042`
