@@ -41,13 +41,13 @@ After these instructions we end up on pin `x:2 y:14`. To get the pin ID we need 
 
 Your Input:
 ```
-F 23
-L 90
-A 12
-F 4
-R 90
-L 90
-R 360
+F 23 
+L 90 
+A 12 
+F 4 
+R 90 
+L 90 
+R 360 
 F 20
 D 3
 A 5
@@ -60,3 +60,9 @@ F 12
 ```
 
 Expected Output: `120`
+
+## Part 2
+- The robot is working correctly but to make it more realistic and human like we would like it to be more randomised. The actual commands will not have a random chance to
+execute but rather they will execute **every instruction with an even index and every instruction with an odd index after.**
+
+- Your goal is the same, input is same as well.
