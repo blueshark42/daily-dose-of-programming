@@ -1,5 +1,5 @@
-# Apple Collecting
-Difficulty: Medium
+# The Apple Dispute
+Difficulty: Hard
 
 ## Part 1
 Bob and Anna and collecting apples. Bob complains that Anna is taking all of the apples, and Anna complains that Bob wants to take all of the apples. We know there is only
