@@ -1,4 +1,4 @@
-# 1: The UPS Water Delivery
+# The UPS Water Delivery
 - Difficulty: Easy
 
 ## Part 1
