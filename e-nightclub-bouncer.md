@@ -1,4 +1,4 @@
-# 2: Nightclub Bouncer
+# Nightclub Bouncer
 Difficulty: Easy
 
 ## Part 1
