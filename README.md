@@ -37,8 +37,3 @@ just people that solve problems in a clever way. It's not something you learn li
 You don't learn to drive fast and not die, it comes with skill. 
 - Skilled programmers can write clean, efficient and optimized code. Networking knowledge is also a good skill to have, as you will understand things outside of just your
 local computer and learn how computers communicate. At a young age only the truly skilled and determined will have such skills.
-
-### Hacking
-- If someone really wants to go on the hacker side, remember it's illegal to damage someone's property other than yours. But if you want to work on something knowledge about
-networking and how computers work would be a must. It's kind of a question game. How does this work, how can I use it to my advantage? And that's where clever thinking
-comes into play. At a young age only the truly skilled and determined get to this point.
