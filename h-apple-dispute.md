@@ -9,7 +9,7 @@ the number is close to her favorite number, she gets an apple. If the number is 
 
 You go into your rusty old workshop and find something that might work. An old CPU, small display and some RAM. But you realise that the RAM is extremely slow and small so
 you would have to restrict some usages to make sure the program won't crash. Due to the old RAM, you are restricted to only using **1 variable**. This variable can hold no more
-than 5 values. This includes keys and/or values. We are not counting the one where the input is stored.
+than 5 values. This includes keys and/or values. We are counting the one where the input is stored.
 
 ### Restrictions
 - Can only use 1 variable that at max can contain 5 values including keys and/or values.
