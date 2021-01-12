@@ -2,7 +2,7 @@
 Difficulty: Hard
 
 ## Part 1
-Bob and Anna and collecting apples. Bob complains that Anna is taking all of the apples, and Anna complains that Bob wants to take all of the apples. We know there is only
+Bob and Anna were collecting apples. Bob complains that Anna is taking all of the apples, and Anna complains that Bob wants to take all of the apples. We know there is only
 one logical solution to this issue. And that is to create a bot that would give Anna and Bob apples. Anna and Bob have have favorite numbers, so your algorithm will be based
 off of that and some inputs from the randomiser. You are supposed to give Bob one apple if the number is closer to his favorite number than Anna's. Same goes for Anna, if 
 the number is close to her favorite number, she gets an apple. If the number is even inbetween, both receive an apple.
