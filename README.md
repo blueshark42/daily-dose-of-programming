@@ -24,3 +24,36 @@ things.
 Watching "How to learn XYZ in ABC minutes" won't teach you a lot. The best way of learning is to write and read code. Just as learning to drive or ride a bike.
 It will take a while and a lot of effort. 
 - If you decide to work on something, choose something over your comfort zone. Something a bit difficult but not super difficult that you'd get stuck on it for ages.
+
+## Skills required per difficulty
+### Beginner
+- Basic arithmetics
+- Basic data types, 
+- I/O
+
+### Easy
+- If 
+- For loops
+- Functions
+- Basic arrays
+- Mathemathics
+
+### Medium
+- File I/O
+- Dynamic arrays
+- String manipulation
+- Syntax knowledge
+- Lower level computing knowledge
+- Algorithms
+
+### Hard
+- Object oriented programming (OOP)
+- Knowledge about memory - heap / stack
+- Memory manipulation
+- Memory addressing
+- Safe programming
+- Good problem solving skills
+
+### Nightmare
+- Sophisticated problem solving skills
+- Sophisticated programming skills
