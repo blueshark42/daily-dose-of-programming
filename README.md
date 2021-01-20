@@ -3,6 +3,7 @@
 - e - Easy, those with little experience with coding
 - m - Medium, a bit harder than easy but doesn't require a lot more skills
 - h - Hard, requires good progamming skills, while coming up with clever solutions
+- n - Nightmare, requires elite programming and problem solving skills to complete. They act as boss levels.
 
 ## What to expect with programming?
 Programming is just giving your computer instructions through some kind of programming language which then will be either interpreted or compiled into instructions
