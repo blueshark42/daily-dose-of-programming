@@ -57,3 +57,148 @@ It will take a while and a lot of effort.
 ### Nightmare
 - Sophisticated problem solving skills
 - Sophisticated programming skills
+
+
+.InputField {
+  margin: 0 25vw 0 25vw;
+}
+
+.InputField-input {
+  color: white;
+}
+
+input,
+textarea {
+  font-family: "Ubuntu", sans-serif;
+  display: block;
+  margin: 10px;
+  padding: 5px;
+  border: none;
+  font-size: 22px;
+}
+
+textarea:focus,
+input:focus {
+  outline: 0;
+}
+
+input.InputField-input,
+textarea.InputField-input {
+  font-size: 48px;
+  font-weight: 300;
+  border-radius: 2px;
+  margin: 0;
+  border: none;
+  width: 80%;
+  background: rgba(255, 255, 255, 0);
+  transition: padding-top 0.2s ease, margin-top 0.2s ease;
+  overflow-x: hidden;
+}
+
+input.InputField-input + label,
+textarea.InputField-input + label {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  padding: 0;
+  margin: 0;
+  width: 10%;
+  border-top: 1px solid darkslateblue;
+  -webkit-transition: width 0.4s ease;
+  transition: width 0.4s ease;
+  height: 0px;
+}
+
+input.InputField-input:focus + label,
+textarea.InputField-input:focus + label {
+  width: 80%;
+}
+
+input.InputField-input:focus,
+input.InputField-input:valid {
+  padding-top: 35px;
+}
+
+textarea.InputField-input:valid,
+textarea.InputField-input:focus {
+  margin-top: 35px;
+}
+
+input.InputField-input:focus + label > span,
+input.InputField-input:valid + label > span {
+  top: -100px;
+  font-size: 22px;
+  color: white;
+}
+
+textarea.InputField-input:focus + label > span,
+textarea.InputField-input:valid + label > span {
+  top: -150px;
+  font-size: 22px;
+  color: white;
+}
+
+input.InputField-input:valid + label,
+textarea.InputField-input:valid + label {
+  border-color: white;
+}
+
+input.InputField-input:invalid,
+textarea.InputField-input:invalid {
+  box-shadow: none;
+}
+
+input.InputField-input + label > span,
+textarea.InputField-input + label > span {
+  font-weight: 300;
+  margin: 0;
+  position: absolute;
+  color: #8f8f8f;
+  font-size: 48px;
+  top: -66px;
+  left: 0px;
+  z-index: -1;
+  -webkit-transition: top 0.2s ease, font-size 0.2s ease, color 0.2s ease;
+  transition: top 0.2s ease, font-size 0.2s ease, color 0.2s ease;
+}
+
+input[type="submit"] {
+  -webkit-transition: opacity 0.2s ease, background 0.2s ease;
+  transition: opacity 0.2s ease, background 0.2s ease;
+  display: block;
+  opacity: 0;
+  margin: 10px 0 0 0;
+  padding: 10px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background: #eee;
+}
+
+input[type="submit"]:active {
+  background: #999;
+}
+
+input.InputField-input:valid ~ input[type="submit"],
+textarea.InputField-input:valid ~ input[type="submit"] {
+  -webkit-animation: appear 1s forwards;
+  animation: appear 1s forwards;
+}
+
+input.InputField-input:invalid ~ input[type="submit"],
+textarea.InputField-input:invalid ~ input[type="submit"] {
+  display: none;
+}
+
+@-webkit-keyframes appear {
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes appear {
+  100% {
+    opacity: 1;
+  }
+}
