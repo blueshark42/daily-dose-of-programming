@@ -1,59 +1,45 @@
-## Challenge Difficulties
-- b - Beginner, those with little to no experience with programming
-- e - Easy, those with little experience with coding
-- m - Medium, a bit harder than easy but doesn't require a lot more skills
-- h - Hard, requires good progamming skills, while coming up with clever solutions
-- n - Nightmare, requires elite programming and problem solving skills to complete. They act as boss levels or real world challenges.
+# Daily Dose of Programming
 
-## Challenge difficulties compared to real world challenges
-Most real world challenges that are considered easy/intermediate would be classed as Nightmare. The actual difficult challenges would be about 2-3x as hard as Nightmare challenges
-found here.
+Just have a few programming problems for you to solve to improve your skills :)
+The problems are intentionally easier than some real world problems, but you quickly get to the level of real problems.
 
-## What to expect with programming?
-Programming is just giving your computer instructions through some kind of programming language which then will be either interpreted or compiled into instructions
-that the computer can understand.
+Feel free to solve them in any order you want. For those that want some kind of rating system you can use the one below.
 
-### Programming Languages
-It takes quite a while to learn, but eventually when you learn it, it becomes easier. It is like riding a bike or driving a car. You can learn to drive a ferrari and be perfect
-with it, then you change to a lambo and it feels a bit odd but with a few hours in it you would feel comfortable with it as well.
+## Ranking System
 
-The hard part is that you will have to learn to think differently, you will have to think outside the box. But for the languages theres a lot of them. Each good for different
-things. 
+Currently there are 5 divisions: Beginner, Easy, Medium, Hard and Master.
 
-## How to learn and improve
-Watching "How to learn XYZ in ABC minutes" won't teach you a lot. The best way of learning is to write and read code. Just as learning to drive or ride a bike.
-It will take a while and a lot of effort. 
-- If you decide to work on something, choose something over your comfort zone. Something a bit difficult but not super difficult that you'd get stuck on it for ages.
+### Problems & Divisions
 
-## Skills required per difficulty
-### Beginner
-- Basic arithmetics
-- Basic data types, 
-- I/O
+In order to grade your skills, each problem is rated. The higher the rating, the more difficult the problem is.
+Each problem is divided into 2 parts. The first problem is the main problem while the second problem is a harder version of the problem.
+To get the problem score you only have to solve first part. How this all works is further explained under in **Solving the Problems -> Problem Parts**
 
-### Easy
-- If 
-- For loops
-- Functions
-- Basic arrays
-- Mathemathics
+Only condition here is that to complete part 2, you need to complete part 1 beforehand.
 
-### Medium
-- File I/O
-- Dynamic arrays
-- String manipulation
-- Syntax knowledge
-- Lower level computing knowledge
-- Algorithms
+If you solve a problem, you receive the rating that problem had. If that rating is higher than any previous rating you had, it becomes your new rating.
+To pass a division you have to solve at least 3/4 of all the problems in the division. After that you have to solve the finale for that division.
 
-### Hard
-- Object oriented programming (OOP)
-- Knowledge about memory - heap / stack
-- Memory manipulation
-- Memory addressing
-- Safe programming
-- Good problem solving skills
+### Finales
 
-### Nightmare
-- Sophisticated problem solving skills
-- Sophisticated programming skills
+To get access to the next division you have to complete the finale designated for your current highest division.
+If you solve the problem you officially passed your division and you can attempt the harder problems.
+
+## Solving the Problems
+
+These things might change, but most probably and usually the problems will have the following form:
+
+- Difficulty, rating, restrictions (language, time, memory, etc.)
+- Short description or prompt describing the problem
+- **Input:** The input you should expect to receive. This might be data types or boundaries, etc.
+- **Output:** The output you should output to pass the test.
+- **Your Input:** The input your program has to pass into the solution.
+- **Expected Output:** The expected output of your program, these values must equal in order to pass unless stated otherwise.
+- **Note:** Further help, notes or explanations of the problem.
+
+### Problem Parts
+
+Each problem is divided into 2 parts:
+
+- **Part 1:** The main part. You are awarded the problem rating points for completing it.
+- **Part 2:** A harder version of the question. These are not rated but you can complete them if you feel like it.

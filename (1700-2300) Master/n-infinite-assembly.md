@@ -1,6 +1,5 @@
 # Infinite Assembly
-- Difficulty: Nightmare (Elite)
-- This is an extremely difficult challenge. These are the elite challenge series. Only attempt if you are comfortable with challenges with lower difficulties. Good Luck.
+Problem Rating: 2000 (Master)
 
 ## Part 1
 It's time for the annual WOT (World of Technology) event. You chose to attend as a competitor in the programming and problem solving section.
@@ -10,8 +9,17 @@ You have a handheld game machine in your hand. The machine keeps getting stuck b
 Your objective is to find, identify and stop the program when an infinite loop is detected. When terminated because of an infinite loop it is required to
 print out the value in the accumulator where the values from `acc` are saved.
 
-For example take your input:
+**Input:**
+- The first line will contain `n, 1 <= n <= 10^9` - the amount of instructions
+- The following `n*2` inputs will contain `istr` - one of the few defined instructions, and `v` - the value passed to the instruction.
+
+
+**Output:**
+- Print the value in the accumulator after executing the same instruction twice (infinite loop).
+
+**Your Input:**
 ```
+9
 nop +0
 acc +1
 jmp +4
@@ -22,6 +30,14 @@ acc +1
 jmp -4
 acc +6
 ```
+
+**Expected Output:**
+```
+5
+```
+
+**Note:** 
+
 The machine recognises 3 types of instructions: nop, acc and jmp. After the command there is a signed value that belongs to the command.
 
 Instruction | Action
@@ -54,5 +70,3 @@ For example changing one of the instructions from `jmp` to `nop` or from `nop` t
 You **cannot** modify the values belonging to the instruction.
 
 Your input remains the same.
-
-## Good Luck

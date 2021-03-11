@@ -1,6 +1,5 @@
 # Custom Vectors
-- Difficulty: Hard (Extra)
-- Recommended language: C
+Problem Rating: 1700 (Hard)
 
 ## Part 1
 The library that contained the code for our dynamic arrays has been corrupted and deleted. Meaning dynamic arrays (vectors) that do not have a static/constant size
@@ -8,8 +7,8 @@ e.g. can have 5 values and add or remove them. These dynamic arrays are helpful 
 
 Your goal is to create vectors that are similiar to ones found in C++'s `std::vector<T>`.
 
-To pass this part, your vectors should be able to:
-| Support | Description |
+To pass this part, your vectors should be able to support:
+| Instruction | Description |
 | --------------- | --------------- |
 | init | Create the vector, type of `int` is enough |
 | add | Add new values to the vector, on the end |

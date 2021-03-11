@@ -1,5 +1,5 @@
 # Flip It!
-Difficulty: Easy
+Problem Rating: 300 (Easy)
 
 ## Part 1
 Your friend is new to programming and he needs you to help him with something. A part of his program requires you to flip values from 2 numbers. Such as `a=b` and `b=a`.
@@ -29,7 +29,7 @@ Your friend is new to programming and he needs you to help him with something. A
 293 593
 345784 4568576
 ```
-You must flip the variables, it is not allowed to just print the 2nd input as the 1st number.
+**Note:** You must flip the variables, it is not allowed to just print the 2nd input as the 1st number.
 
 ## Part 2
 Well that works but what if we don't know what data type we are trying to flip? Well, our friend helped a bit with this code but for some reason it doesn't work. Can you fix it?
@@ -45,4 +45,3 @@ void flip_val(void* a, void* b) {
     b = temp;
 }
 ```
-This question is much harder than part 1, so solving this problem is optional.

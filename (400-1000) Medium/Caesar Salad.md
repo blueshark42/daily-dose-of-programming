@@ -1,5 +1,5 @@
 # Caesar Salad
-Difficulty: Medium
+Problem Rating: 400 (Medium)
 
 ## Part 1
 Your friend told you today that he has a super good idea that you guys could could create for the technology school project! But he is afraid that other students will eavesdrop
@@ -11,15 +11,45 @@ But try to solve it by yourself :).
 
 - Your goal is to decrypt your friend's message and find the password hiding in it.
 
-The cipher that you received:
-`Fvb ohcl mvbuk aol whzzdvyk! Aol whzzdvyk pz: WvjpahjJpjh_e84`
+**Input:**
+- The only line will contain the string `s` - the encrypted message.
 
-## Are you stuck? Here's some help.
-- **Cipher (Help #1):** Caesar salad, hm? Interesting. 
-- **Cipher (Help #2):** The cipher used in this challenge is indeed, Caesar's favorite cipher.
+
+**Output:**
+- The decrypted message your friend sent.
+
+**Your Input:**
+```
+Fvb ohcl mvbuk aol whzzdvyk! Aol whzzdvyk pz: WvjpahjJpjh_e84
+```
+
+**Expected Output:**
+```
+You have found the password! The password is: PocitacCica_x84
+```
+
+**Note:** The cipher used in this problem is indeed, Caesar's favorite cipher.
 
 ## Part 2
 You have successfully received your friend's message. You need to let him know that you have received it so he would know that the message got through.
 
 You can shift the letters however much you want, but they must contain the original decrypted password in them at the end so your friend would know it's a 
 legitimate message coming back.
+
+**Input:**
+- You give the input. **The input must have a length of at least 16.**
+
+
+**Output:**
+- Encrypted message that you sent back.
+
+
+**Your Input:**
+```
+YOUR INPUT
+```
+
+**Expected Output:**
+```
+YOUR ENCRYPTED INPUT
+```
