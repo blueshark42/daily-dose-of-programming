@@ -36,5 +36,10 @@ hi
 hi
 ```
 
+**Expected Output:**
+```
+1 3 4
+```
+
 **Note:** note
 
