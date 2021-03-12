@@ -1,4 +1,4 @@
-# Too Long
+# Food of The Beast
 Problem Rating: 200 (Easy)
 
 ## Part 1
