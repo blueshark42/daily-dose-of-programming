@@ -43,3 +43,6 @@ Each problem is divided into 2 parts:
 
 - **Part 1:** The main part. You are awarded the problem rating points for completing it.
 - **Part 2:** A harder version of the question. These are not rated but you can complete them if you feel like it.
+
+## Ranked
+Rankeds are problems with limited time to solve.
