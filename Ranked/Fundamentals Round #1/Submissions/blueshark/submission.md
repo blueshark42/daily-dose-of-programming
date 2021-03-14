@@ -65,8 +65,6 @@ int main() {
 	cout<<x<<" "<<y<<"\n";
 	return 0;
 }
-
-
 ```
 
 ## Problem C - Voting (Accepted)
@@ -102,8 +100,6 @@ int main() {
 
 	return 0;
 }
-
-
 ```
 
 ## Problem D - Bad Hash (Accepted)
@@ -137,8 +133,6 @@ int main() {
 
 	return 0;
 }
-
-
 ```
 
 ## Problem E - Calculator Plus Plus (Accepted)
@@ -180,6 +174,4 @@ int main() {
 	solve();
 	return 0;
 }
-
-
 ```
