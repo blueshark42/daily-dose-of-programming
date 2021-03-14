@@ -20,7 +20,7 @@ Each boy has a value of `7` while each girl has a value of `5`. You have to coun
 
 ```
 20
-7 7 5 7 5 5 5 7 5 7 7 5 7 5 5 7 7 7 5
+7 7 5 7 5 5 5 7 5 7 7 5 7 5 5 7 7 7 5 5
 ```
 
 **Expected Output:**
