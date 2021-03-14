@@ -45,4 +45,4 @@ Each problem is divided into 2 parts:
 - **Part 2:** A harder version of the question. These are not rated but you can complete them if you feel like it.
 
 ## Ranked
-Rankeds are problems with limited time to solve.
+Rankeds are problem sets that are completed at the same time by all contestants. They get a limited amount of time to complete and submit as much solutions as possible.
