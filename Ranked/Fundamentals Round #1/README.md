@@ -6,7 +6,7 @@
 
 **Writers & Testers:** blueshark
 
-**Competition Time:** 2h (14.3.2021, 20:05-22:05)
+**Competition Time:** 1h 30m (14.3.2021, 20:30-22:00)
 
 **Contestants:**
 
