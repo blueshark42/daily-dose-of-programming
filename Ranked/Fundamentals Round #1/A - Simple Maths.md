@@ -6,7 +6,7 @@ Problem A from Fundamentals Round #1
 
 You are making a simple calculator here. Only difference is that you only input the numbers.
 
-You will receive 5 numbers, `a, b, c, d, e`, and calculate `f` as the following: `(a+b)/((d-e)*d)-c`.
+You will receive 5 numbers, `a, b, c, d, e`, and calculate `f` as the following: `(a+b)/((e-d)*d)-c`.
 
 **Input:**
 
