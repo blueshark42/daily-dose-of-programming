@@ -2,7 +2,7 @@
 Problem Rating: 150 (Easy)
 
 ## Part 1
-You and your friend won the snowball fight. The winners receive fires with ketchup as the reward. Since there are 2 of you, you and your friend decide to give both of you an even amount of food.
+You and your friend won the snowball fight. The winners receive fries with ketchup as the reward. Since there are 2 of you, you and your friend decide to give both of you an even amount of food.
 
 **Input:**
 - The first line contains, `n, 1 <= n <= 10` - test cases.
