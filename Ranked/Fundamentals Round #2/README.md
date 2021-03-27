@@ -10,11 +10,21 @@
 
 **Contestants:**
 
-TBA
+- AlexOxi
+- TheRyanis
+- OgiS
 
 **Contest Placement:**
 
-TBA
+1. TheRyanis
+2. AlexOxi
+3. OgiS
+
+| Contestant | A   | B   | C   | D   | E   |
+| ---------- | --- | --- | --- | --- | --- |
+| TheRyanis  | 1   | 2   | 0   | 0   | 5   |
+| AlexOxi    | 1   | 2   | 0   | 0   | 0   |
+| OgiS       | 1   | -1  | 0   | 0   | 0   |
 
 **Rating:**
 
