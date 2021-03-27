@@ -10,9 +10,7 @@
 
 **Contestants:**
 
-- TheRyanis
-- OgiS
-- AlexOxi
+TBA
 
 **Contest Placement:**
 
