@@ -27,7 +27,7 @@ What you output are not restricted.
 - The following lines contain `a[1], a[2], ..., a[n], -10^3 <= a <= 10^3` - number to compare.
 
 **Output:**
-- sqrt of 3
+- How much apples Bob and Anna have respectively.
 
 **Your Input:**
 ```
