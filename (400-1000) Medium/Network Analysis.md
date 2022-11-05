@@ -1,5 +1,5 @@
 # Network Analysis
-Problem Rating: 80 (Medium)
+Problem Rating: 800 (Medium)
 
 ## Part 1
 Our network infrastructure has been attacked by hackers! They keep flooding us with malicious network requests to our servers that make us run out of RAM!
@@ -35,7 +35,7 @@ O24OORG465GIO5JK
 4
 ```
 
-**Note:** You have to find the traffic that stands out from the rest.
+**Note:** You have to find the traffic that stands out from the rest. There are more valid requests than malicious on one occassion.
 
 ## Part 2
 - After some analysis we found out that the requests can be sent to any server to make them run out of RAM. We will get them with their own weapon!
