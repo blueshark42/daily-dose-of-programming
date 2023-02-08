@@ -1,6 +1,6 @@
 # Clock
 
-Problem Rating: 500 (Medium)
+Problem Rating: 1000 (Medium)
 
 ## Part 1
 
