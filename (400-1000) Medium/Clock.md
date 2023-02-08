@@ -5,7 +5,7 @@ Problem Rating: 500 (Medium)
 ## Part 1
 
 You are working at an office where weird things are happening and your clock broke. Therefore your task is to create a working clock that
-counts from X to Y in a time span of Z minutes. 
+counts from X to Y in a time span of Z minutes. Format: H:MM
 
 For example, `clock(2, 1)` should count from `0:00` to `2:00` in 1 minute.
 
